@@ -87,11 +87,15 @@ details:not([open]) {
 
 ---
 
-## 🧠 Author
-**Sakshi Chavan**  
-A simple and elegant demo of a responsive sidebar using only HTML & CSS.
+## 🧑‍💻 Author
+
+> **Developer:**  **Sakshi Chavan**
+
+> **Github:** **[sagesakshi27](https://github.com/sagesakshi27)**
 
 ---
 
 ## 📜 License
 This project is **open-source** and available for personal or educational use.
+
+---
